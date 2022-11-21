@@ -27,4 +27,4 @@
 
 ![](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/Screenshot%202022-11-21%20at%2011.10.12.png?raw=true)
 
-### mod applealc worked ! You can see opt 2.5mm jack
+### mod applealc worked ! You can see opt 3.5mm jack
