@@ -15,4 +15,6 @@
 
 ## usb already mod include usb2 in motherboard (down)
 
+## i mod applealc.kext for nuc9, pull request not permit, so plz use my applealc.kext get good support
+
 ## working fine
