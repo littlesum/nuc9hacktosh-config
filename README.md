@@ -21,10 +21,10 @@
 
 ## working fine
 
-![Screenshot 2022-11-21 at 11.08.01](/Users/ob_/Desktop/nuc9hacktosh-config/pic/Screenshot 2022-11-21 at 11.08.01.png)
+![](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/Screenshot%202022-11-21%20at%2011.08.01.png?raw=true)
 
-![Screenshot 2022-11-21 at 11.09.45](/Users/ob_/Desktop/nuc9hacktosh-config/pic/Screenshot 2022-11-21 at 11.09.45.png)
+![](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/Screenshot%202022-11-21%20at%2011.09.45.png?raw=true)
 
-![Screenshot 2022-11-21 at 11.10.12](/Users/ob_/Desktop/nuc9hacktosh-config/pic/Screenshot 2022-11-21 at 11.10.12.png)
+![](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/Screenshot%202022-11-21%20at%2011.10.12.png?raw=true)
 
 ### mod applealc worked ! You can see opt 2.5mm jack
