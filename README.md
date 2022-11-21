@@ -1,6 +1,6 @@
 # #nuc9hacktosh-config
 
-这是一个 我的 nuc9 的黑苹果配置
+nuc9 的黑苹果配置
 
 我的具体配置
 
