@@ -1,5 +1,7 @@
 # #nuc9hacktosh-config
 
+### `update to oc 0.8.7`
+
 nuc9 的黑苹果配置
 
 我的具体配置
@@ -13,7 +15,7 @@ nuc9 的黑苹果配置
 | Ssd         | Sn570       |
 | Nic         | Aqc107      |
 | Airport_nic | bcm94360cs2 |
-| oc version  | 0.8.6       |
+| oc version  | 0.8.7       |
 
 ## usb already mod include usb2 in motherboard (down)
 
