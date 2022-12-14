@@ -8,6 +8,8 @@ nuc9 的黑苹果配置
 
 ### Notice: intel wifi bluetooth not configured, driver not working in MacOS 13.0.1
 
+### Now update to MacOS 13.1
+
 | Matherboard | Nuc9i9      |
 | ----------- | ----------- |
 | dGpu        | Wx4100      |
