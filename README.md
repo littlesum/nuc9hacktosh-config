@@ -17,7 +17,7 @@
 | dGpu        | wx4100      |
 | RAM         | 64Gx3200    |
 | SSD         | sn570       |
-| NIC         | Aqc107      |
+| NIC         | Aqc107 10G  |
 | Airport_nic | bcm94360cs2 |
 | oc version  | 0.8.8       |
 
