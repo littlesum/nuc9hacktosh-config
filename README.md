@@ -1,8 +1,8 @@
 # NUC9-hacktosh-config
 
-### 1. `update to oc 0.8.8`
-### 2. `fix some thunderbolts 3 usb 3 issues, now usb type-c worked`
-### 3. `fix some sound issues`
+ 1. `update to oc 0.8.8;`
+ 2. `fix some thunderbolts 3 usb 3 issues, now usb type-c worked;`
+ 3. `fix some sounds issues;`
 
 # nuc9 的黑苹果配置
 
