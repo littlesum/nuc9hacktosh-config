@@ -12,7 +12,7 @@
 
 ### Now update to MacOS 13.1
 
-| Matherboard | Nuc9i9      |
+| Matherboard | nuc9i9      |
 | ----------- | ----------- |
 | dGpu        | wx4100      |
 | RAM         | 64Gx3200    |
