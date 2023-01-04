@@ -4,7 +4,7 @@
  2. `fix some thunderbolts 3 usb 3 issues, now usb type-c worked;`
  3. `fix some sounds issues;`
 
-# nuc9 的黑苹果配置
+# NUC9 的黑苹果配置
 
 ## 我的具体配置
 
