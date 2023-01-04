@@ -1,10 +1,12 @@
 # #nuc9hacktosh-config
 
-### `update to oc 0.8.7`
+### 1. `update to oc 0.8.8`
+### 2. `fix some thunderbolts 3 usb 3 issues, now usb type-c worked`
+### 3. `fix some sound issues`
 
-nuc9 的黑苹果配置
+# nuc9 的黑苹果配置
 
-我的具体配置
+## 我的具体配置
 
 ### Notice: intel wifi bluetooth not configured, driver not working in MacOS 13.0.1
 
@@ -29,6 +31,4 @@ nuc9 的黑苹果配置
 ![](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/IMAGE%202022-12-07%2014:13:23.jpg?raw=true)
 ![](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/Screenshot%202022-12-07%20at%2014.50.46.png?raw=true)
 
-### mod applealc worked ! You can see opt 3.5mm jack
 
-`fix commit`
