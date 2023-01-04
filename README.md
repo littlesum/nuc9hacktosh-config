@@ -1,4 +1,4 @@
-# #nuc9hacktosh-config
+# nuc9hacktosh-config
 
 ### 1. `update to oc 0.8.8`
 ### 2. `fix some thunderbolts 3 usb 3 issues, now usb type-c worked`
