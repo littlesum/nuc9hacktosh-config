@@ -5,6 +5,9 @@
  3. `fix some sounds issues;`
 
 # NUC9 的黑苹果配置
+![macOS 13.1](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/Screenshot%202023-01-04%20at%2015.10.42.png?raw=true)
+
+
 
 ## 我的具体配置
 
@@ -28,7 +31,7 @@
 ## working fine
 
 ![](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/Screenshot%202022-12-07%20at%2014.51.38.png?raw=true)
-![](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/IMAGE%202022-12-07%2014:13:23.jpg?raw=true)
+
 ![](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/Screenshot%202022-12-07%20at%2014.50.46.png?raw=true)
 ![Usb port](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/Screenshot%202023-01-04%20at%2015.04.28.png?raw=true)
 
