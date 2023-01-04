@@ -14,12 +14,12 @@
 
 | Matherboard | Nuc9i9      |
 | ----------- | ----------- |
-| dGpu        | Wx4100      |
-| Ram         | 64G         |
-| Ssd         | Sn570       |
-| Nic         | Aqc107      |
+| dGpu        | wx4100      |
+| RAM         | 64Gx3200    |
+| SSD         | sn570       |
+| NIC         | Aqc107      |
 | Airport_nic | bcm94360cs2 |
-| oc version  | 0.8.7       |
+| oc version  | 0.8.8       |
 
 ## usb already mod include usb2 in motherboard (down)
 
