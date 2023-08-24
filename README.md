@@ -3,7 +3,7 @@
 `update to oc 0.9.4;
 update to MacOS 13.5.1`
 
-![MacOS 13.4.1](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/macOS%2013.4.1.png)
+![MacOS 13.4.1](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/iShot_2023-08-24_08.32.04.png)
 
 # NUC9 的黑苹果配置
 
