@@ -24,9 +24,4 @@ update to MacOS 13.5.1`
 
 ## usb already mod include usb2 in motherboard (down)
 
-
-
-
-
-
-
+##  根据opencore更新说明，我在更新opencore 0.9.4之后，要使用aqc107万兆卡，就需要更改dmar，所以acpi里面新增了dmar修改，如果您没有使用aqc107需要把这个acpi文件删除了！
