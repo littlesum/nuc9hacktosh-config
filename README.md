@@ -1,6 +1,7 @@
 # NUC9-hacktosh-config
 
-`update to oc 0.9.2;`
+`update to oc 0.9.4;
+update to MacOS 13.5.1`
 
 ![MacOS 13.4.1](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/macOS%2013.4.1.png)
 
@@ -10,7 +11,7 @@
 
 ### Notice: intel wifi bluetooth not configured
 
-### Now update to MacOS 13.4.1
+### Now update to MacOS 13.5.1
 
 | Matherboard | nuc9i9      |
 | ----------- | ----------- |
@@ -19,7 +20,7 @@
 | SSD         | sn570       |
 | NIC         | Aqc107 10G  |
 | Airport_nic | bcm94360cs2 |
-| oc version  | 0.9.2       |
+| oc version  | 0.9.4       |
 
 ## usb already mod include usb2 in motherboard (down)
 
