@@ -1,7 +1,7 @@
 # NUC9-hacktosh-config
 
-`update to oc 0.9.4;
-update to MacOS 13.5.1`
+`update to oc 0.9.6;
+update to MacOS 13.6.1`
 
 ![MacOS 13.4.1](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/iShot_2023-08-24_08.32.04.png)
 
@@ -11,7 +11,7 @@ update to MacOS 13.5.1`
 
 ### Notice: intel wifi bluetooth not configured
 
-### Now update to MacOS 13.5.1
+### Now update to MacOS 13.6.1
 
 | Matherboard | nuc9i9      |
 | ----------- | ----------- |
@@ -20,8 +20,8 @@ update to MacOS 13.5.1`
 | SSD         | sn570       |
 | NIC         | Aqc107 10G  |
 | Airport_nic | bcm94360cs2 |
-| oc version  | 0.9.4       |
+| oc version  | 0.9.6       |
 
 ## usb already mod include usb2 in motherboard (down)
 
-##  根据opencore更新说明，我在更新opencore 0.9.4之后，要使用aqc107万兆卡，就需要更改dmar，所以acpi里面新增了dmar修改，如果您没有使用aqc107需要把这个acpi文件删除了！
+##  根据opencore更新说明，我在更新opencore 0.9.6之后，要使用aqc107万兆卡，就需要更改dmar，所以acpi里面新增了dmar修改，如果您没有使用aqc107需要把这个acpi文件删除了！
