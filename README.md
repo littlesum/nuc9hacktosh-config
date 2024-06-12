@@ -1,9 +1,9 @@
 # NUC9-hacktosh-config
 
-`update to oc 0.9.6;
-update to MacOS 13.6.1`
+`update to oc 1.0.0;
+update to MacOS 13.6.7`
 
-![MacOS 13.4.1](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/iShot_2023-08-24_08.32.04.png)
+![MacOS 13.6.7](https://github.com/littlesum/nuc9hacktosh-config/blob/main/pic/iShot_2023-08-24_08.32.04.png)
 
 # NUC9 的黑苹果配置
 
@@ -11,7 +11,7 @@ update to MacOS 13.6.1`
 
 ### Notice: intel wifi bluetooth not configured
 
-### Now update to MacOS 13.6.1
+### Now update to MacOS 13.6.7
 
 | Matherboard | nuc9i9      |
 | ----------- | ----------- |
